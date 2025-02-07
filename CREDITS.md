@@ -1,3 +1,5 @@
+# Attribution and credits
+
 Content of this repository  originates entirely from <https://doi.org/10.5281/zenodo.10161526> and therefore appropriate credit attribution should  entirely be given to <https://doi.org/10.5281/zenodo.10161526>. 
 
 This file `CREDITS.md` is the only addition to this software originally provided  on zenodo.
@@ -15,3 +17,9 @@ Attribution in bibtex format can be written as:
   copyright = {Creative Commons Attribution 4.0 International}
 }
 ```
+
+# Web publishing
+
+The content of this repo is visible  at
+https://roznn.github.io/OpenScience/
+
