@@ -394,9 +394,9 @@ Answer the following questions to test what you have learned so far.
 
 What is open science?
 
-- [ ] Sharing all information so anyone can access it.
-- [ ] A legal definition of free science.
-- [ ] A nuanced way of sharing the process and products of science.
+-  Sharing all information so anyone can access it.
+-  A legal definition of free science.
+-  A nuanced way of sharing the process and products of science.
 
 *Question*
 
