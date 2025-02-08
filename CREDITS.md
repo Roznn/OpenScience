@@ -1,8 +1,7 @@
 # Attribution and credits
 
-Content of this repository  originates entirely from <https://doi.org/10.5281/zenodo.10161526> and therefore appropriate credit attribution should  entirely be given to <https://doi.org/10.5281/zenodo.10161526>. 
+Content of this repository  originates entirely from <https://doi.org/10.5281/zenodo.10161526> and therefore appropriate credit attribution should  be given to <https://doi.org/10.5281/zenodo.10161526>. 
 
-This file `CREDITS.md` is the only addition to this software originally provided  on zenodo.
 
 Attribution in bibtex format can be written as:
 
@@ -17,6 +16,11 @@ Attribution in bibtex format can be written as:
   copyright = {Creative Commons Attribution 4.0 International}
 }
 ```
+
+# Modifications
+
+ `CREDITS.md` and `_layouts/default.html`   are  the only files added to this software repo that was originally provided  at <https://doi.org/10.5281/zenodo.10161526>.
+
 
 # Web publishing
 
