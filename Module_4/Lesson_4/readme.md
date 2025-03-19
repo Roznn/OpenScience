@@ -6,7 +6,7 @@
 * [Planning to Share Your Code](#planning-to-share-your-code)
 * [Legal and Security Concerns](#legal-and-security-concerns)
 * [When: The Schedule for Code Archiving and Sharing](#when-the-schedule-for-code-archiving-and-sharing)
-* [Where: Where To Share Open Code](#where-to-share-open-code)
+* [Where: Where To Share Open Code](#where-where-to-share-open-code)
 * [How: How to Enable Reuse of Code](#how-how-to-enable-reuse-of-code)
 * [Who: Roles and Responsibilities of the Team Members in Implementing the SMP](#who-roles-and-responsibilities-of-the-team-members-in-implementing-the-smp)
 * [Lesson 4: Summary](#lesson-4-summary)
