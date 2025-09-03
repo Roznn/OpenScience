@@ -193,7 +193,7 @@ Figure Credit: NASA, ESA, CSA, Joseph Olmsted (STScI)
 
 This was conducted as part of the JWST’s Early Release Science (ERS) Program as part of the JWST ERS Exoplanet Transiting Community program (ERS-TRANSIT). This is some of the earliest science data taken with the facility that was made openly available. The team, though, began their work years before the observations and included open science into every step of the process. The team worked in an open format from ideation, to analysis, through to publication and communication.
 
-Let's walk through and see what open results were in fact produced. While doing so, let’s take a look at what the advantages of doing so at each stage were.
+Let's walk through and see what open results were in fact produced. While doing so, let's take a look at what the advantages of doing so at each stage were.
 
 ### Planning for Open Science
 
