@@ -199,8 +199,8 @@ Let's walk through and see what open results were in fact produced. While doing 
 
 <img src="../images/media/image193.png" style="width: 100%; height: auto;" />
 
-<table>
-    <table>
+
+ <table>
     <colgroup>
         <col style="width: 50%" />
         <col style="width: 50%" />
@@ -222,7 +222,7 @@ Let's walk through and see what open results were in fact produced. While doing 
             <td>Availability</td>
             <td>
                 <p>On team webpage and GitHub.</p>
-                <p></p>
+                <p><img src="../images/media/image219.jpg" style="width: 100%; height: auto;" /></p>
             </td>
         </tr>
     </tbody>
