@@ -222,7 +222,7 @@ Let's walk through and see what open results were in fact produced. While doing 
             <td>Availability</td>
             <td>
                 <p>On team webpage and GitHub.</p>
-                
+                <p></p>
             </td>
         </tr>
     </tbody>
