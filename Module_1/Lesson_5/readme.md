@@ -249,8 +249,8 @@ The team grew to almost 400 people, all working together, all knowing what to ex
 
 <img src="../images/media/image6.jpg" style="width: 100%; height: auto;" />
 
+
 <table>
-    <table>
     <colgroup>
         <col style="width: 50%" />
         <col style="width: 50%" />
@@ -290,7 +290,6 @@ But they didn’t have to to start from scratch! The ERS-TRANSIT team was able t
 <img src="../images/media/image244.jpg" style="width: 100%; height: auto;" />
 
 <table>
-    <table>
     <colgroup>
         <col style="width: 50%" />
         <col style="width: 50%" />
@@ -376,8 +375,8 @@ The TOPS Open Science 101 curriculum is a good place to go for a more in-depth i
 
 But, if you want to also do an in-person or virtual workshop, we got you!
 
+
 <table>
-    <table>
     <colgroup>
         <col style="width: 33%" />
         <col style="width: 33%" />
