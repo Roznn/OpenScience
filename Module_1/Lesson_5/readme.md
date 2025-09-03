@@ -245,7 +245,7 @@ The team grew to almost 400 people, all working together, all knowing what to ex
 
 [CLICK TO LEARN](https://opensciency.github.io/sprint-content/open-results/lesson4-opportunities-and-credits.html)
 
-### Open-Source Software**
+### Open-Source Software
 
 <img src="../images/media/image6.jpg" style="width: 100%; height: auto;" />
 
