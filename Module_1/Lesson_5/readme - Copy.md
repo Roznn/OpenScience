@@ -197,6 +197,36 @@ Let's walk through and see what open results were in fact produced. While doing 
 
 ### Planning for Open Science
 
+<img src="../images/media/image193.png" style="width: 100%; height: auto;" />
+
+<table>
+    <table>
+    <colgroup>
+        <col style="width: 50%" />
+        <col style="width: 50%" />
+    </colgroup>
+    <tbody>
+        <tr>
+            <td>Opportunity</td>
+            <td>Create a Governance Plan: An open code of conduct and publication policy highlights the rules of engagement of the final result.</td>
+        </tr>
+        <tr>
+            <td>Benefit</td>
+            <td>Onboarding of new members and facilitated collaboration.</td>
+        </tr>
+        <tr>
+            <td>Result</td>
+            <td>Code of Conduct and Publication Policy.</td>
+        </tr>
+        <tr>
+            <td>Availability</td>
+            <td>
+                <p>On team webpage and GitHub.</p>
+                <p><img src="../images/media/image219.jpg" style="width: 100%; height: auto;" /></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 
 One of the most important parts of starting a project is thinking about who is going to be working on it and how they will work together. Before samples are collected, before data is downloaded, before code is written,  how will you all work together, what are the roles and responsibilities, and how and when will you share any materials. That was a key part that this JWST project got right.
