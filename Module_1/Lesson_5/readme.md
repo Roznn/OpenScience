@@ -229,7 +229,7 @@ Let's walk through and see what open results were in fact produced. While doing 
 </table>
 
 
-One of the most important parts of starting a project is thinking about who is going to be working on it and how they will work together. Before samples are collected, before data is downloaded, before code is written - how will you all work together, what are the roles and responsibilities, and how and when will you share any materials. That was a key part that this JWST project got right.
+One of the most important parts of starting a project is thinking about who is going to be working on it and how they will work together. Before samples are collected, before data is downloaded, before code is written,  how will you all work together, what are the roles and responsibilities, and how and when will you share any materials. That was a key part that this JWST project got right.
 
 
 
