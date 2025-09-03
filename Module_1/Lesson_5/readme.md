@@ -230,6 +230,7 @@ Let's walk through and see what open results were in fact produced. While doing 
 
 One of the most important parts of starting a project is thinking about who is going to be working on it and how they will work together. Before samples are collected, before data is downloaded, before code is written – how will you all work together, what are the roles and responsibilities, and how and when will you share any materials. That was a key part that this JWST project got right.
 
+
 The initial team, during the planning phase, developed and openly published information in the form of the [code of conduct](https://ers-transit.github.io/code-of-conduct.html) and the [publication policy](https://ers-transit.github.io/documents/publication-policy-v1.0.pdf).
 
 Basically, you are welcome to work with us, but here are our rules. And then the lead scientists regularly talked about this with the team, especially as it expanded so everyone knew what was expected of them and what they got in return (credit!).
